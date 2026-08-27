@@ -27,7 +27,7 @@ SOFTWARE.
 #include <geometry_msgs/msg/pose.hpp>
 #include <geometry_msgs/msg/vector3.hpp>
 #include <std_msgs/msg/header.hpp>
-#include <tf2_geometry_msgs/tf2_geometry_msgs.hpp>
+#include <tf2_geometry_msgs/tf2_geometry_msgs.h>
 
 #include <tf2/LinearMath/Quaternion.h>
 #include <etsi_its_msgs_utils/cpm_ts_access.hpp>
